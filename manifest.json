@@ -1,0 +1,14 @@
+{
+    "name": "Zbitcoin",
+    "version": "1.0.0",
+    "description" : "Extension pour avoir le dernier prix du bitcoin",
+    "icons": {
+        "16": "825540.png"
+    },
+    "manifest_version": 3,
+    "author" : "Kévin Zubrzycki",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Zbitcoin"
+    }
+}
